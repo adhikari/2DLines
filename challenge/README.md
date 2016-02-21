@@ -54,7 +54,8 @@ This will reduce the time complexity to:
 Since this is written in Java, you can simple use maven to run this:
 
 1. Compile the project by running 
-	
+
+	cd challenge
 	mvn package
 	
 2. Run the project in a few modes: 
