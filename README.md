@@ -1,4 +1,4 @@
-# Challenge:
+# Problem
 
 Given: A list of 2D (all different) points: (x_1, y_1), ..., (x_K, y_K); numbers use floating point representation.
 
