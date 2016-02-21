@@ -1,4 +1,4 @@
-# Problem
+# Challenge:
 
 Given: A list of 2D (all different) points: (x_1, y_1), ..., (x_K, y_K); numbers use floating point representation.
 
@@ -54,7 +54,7 @@ This will reduce the time complexity to:
 Since this is written in Java, you can simple use maven to run this:
 
 1. Compile the project by running 
-	
+
 	cd challenge
 	mvn package
 	
